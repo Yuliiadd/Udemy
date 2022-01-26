@@ -54,6 +54,6 @@ function isEmpty(obj) {
     }
     return true;
     }
-    
+
     let schedule = {};
     alert(isEmpty(schedule));
